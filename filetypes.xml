@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="webp" type="Image" />
       <mapping pattern="h" type="PLAIN_TEXT" />
       <mapping pattern="backgrounds" type="PLAIN_TEXT" />
       <mapping pattern="Segoe UI.ttf" type="PLAIN_TEXT" />
